@@ -2,7 +2,7 @@
 
 Console.WriteLine("Make your decision!");
 Console.WriteLine("You either go to the left or right door, it's up to you! (left/right)");
-
+// the cookies aren't here and also, tell me why you're snooping through my code
 string start = Console.ReadLine();
 if (start.ToLower() == "left")
 {
@@ -47,6 +47,7 @@ if (start.ToLower() == "left")
         }
     }
 }
+// here have a cookie while snooping through my code
 else if (start.ToLower() == "right")
 {
     Console.WriteLine("");
@@ -71,6 +72,7 @@ else if (start.ToLower() == "right")
             Console.ReadLine();
         }
     }
+    // how did the cookie taste?
     else if (sweden1.ToLower() == "walk")
     {
         Console.WriteLine("");
@@ -96,5 +98,4 @@ else if (start.ToLower() == "ö")
     Console.WriteLine("Secret ending! Also how tf do you know about this? Stop snooping in my damn code!");
     Console.ReadLine();
 }
-// more code
-// even more code
+// no gerald, you're not getting another cookie!
