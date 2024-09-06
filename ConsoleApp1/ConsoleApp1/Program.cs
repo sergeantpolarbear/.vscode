@@ -18,13 +18,13 @@ if (start.ToLower() == "left")
         if (china2.ToLower() == "engineer")
         {
             Console.WriteLine("");
-            Console.WriteLine("Your parents approved of it, +100 social credit!");
+            Console.WriteLine("Your parents approved of it, +100 social credit! You got a star.");
             Console.ReadLine();
         }
         else if (china2.ToLower() == "dancer")
         {
             Console.WriteLine("");
-            Console.WriteLine("Your parents didn't approve of it, -100 social credit!");
+            Console.WriteLine("Your parents didn't approve of it, -100 social credit! You also got disowned.");
             Console.ReadLine();
         }
     }
@@ -36,13 +36,13 @@ if (start.ToLower() == "left")
         if (china3.ToLower() == "yes")
         {
             Console.WriteLine("");
-            Console.WriteLine("Your parents approved of him, +100 social credit!");
+            Console.WriteLine("Your parents approved of him, +100 social credit! You had a sleepover.");
             Console.ReadLine();
         }
         else if (china3.ToLower() == "no")
         {
             Console.WriteLine("");
-            Console.WriteLine("You missed a friend, emotional damage!");
+            Console.WriteLine("You missed a friend, emotional damage! You had to stand on your knees on rice for 8 hours.");
             Console.ReadLine();
         }
     }
@@ -61,13 +61,13 @@ else if (start.ToLower() == "right")
         if (sweden2.ToLower() == "yes")
         {
             Console.WriteLine("");
-            Console.WriteLine("Your parents could retire from what you earnt");
+            Console.WriteLine("Your parents could retire from what you earnt. They got happy.");
             Console.ReadLine();
         }
         else if (sweden2.ToLower() == "no")
         {
             Console.WriteLine("");
-            Console.WriteLine("Your parents told you to do better next time");
+            Console.WriteLine("Your parents told you to do better next time. They gave you a star for trying.");
             Console.ReadLine();
         }
     }
@@ -79,13 +79,13 @@ else if (start.ToLower() == "right")
         if (sweden3.ToLower() == "yes")
         {
             Console.WriteLine("");
-            Console.WriteLine("You became best friends and hung out every day");
+            Console.WriteLine("You became best friends and hung out every day. You got ice cream.");
             Console.ReadLine();
         }
         else if (sweden3.ToLower() == "no")
         {
             Console.WriteLine("");
-            Console.WriteLine("You missed a friend, you became sad");
+            Console.WriteLine("You missed a friend, you became sad. You became depressed.");
             Console.ReadLine();
         }
     }
@@ -93,6 +93,8 @@ else if (start.ToLower() == "right")
 else if (start.ToLower() == "ö")
 {
     Console.WriteLine("");
-    Console.WriteLine("Secret ending!");
+    Console.WriteLine("Secret ending! Also how tf do you know about this? Stop snooping in my damn code!");
     Console.ReadLine();
 }
+// more code
+// even more code
