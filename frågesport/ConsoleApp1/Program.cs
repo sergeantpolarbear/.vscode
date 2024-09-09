@@ -14,7 +14,7 @@ if (question2.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
 Console.WriteLine("3. How many bolts does the 'Öland bro' have?");
-Console.WriteLine("A. 20,000     B. 7,428,954     C. 86"); string question3 = Console.ReadLine();
+Console.WriteLine("A. ~20,000     B. 7,428,954     C. 86"); string question3 = Console.ReadLine();
 if (question3.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
@@ -23,13 +23,13 @@ Console.WriteLine("A. Pakistanian     B. Pigon     C. Swedish"); string question
 if (question4.ToLower() == "c") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("5. What is glass?");
-Console.WriteLine("A. A solid     B. A liquid     C. A gas"); string question5 = Console.ReadLine();
+Console.WriteLine("5. What state of matter is glass?");
+Console.WriteLine("A. Solid     B. Liquid     C. Gas"); string question5 = Console.ReadLine();
 if (question5.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("6. What is the best game ever?");
-Console.WriteLine("A. Stormworks     B. Minecraft     C. Call of War"); string question6 = Console.ReadLine();
+Console.WriteLine("6. What is the most popular game?");
+Console.WriteLine("A. Fortnite     B. Minecraft     C. Call of War"); string question6 = Console.ReadLine();
 if (question6.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
@@ -43,19 +43,19 @@ Console.WriteLine("A. Finnish     B. English     C. German"); string question8 =
 if (question8.ToLower() == "a") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("9. Why are there so many questions?");
-Console.WriteLine("A. why not     B. bc i can, and you suck     C. you suck"); string question9 = Console.ReadLine();
+Console.WriteLine("9. How old is the universe?");
+Console.WriteLine("A. ~5 billion years     B. ~26.7 billion years     C. ~100.4 billion years"); string question9 = Console.ReadLine();
 if (question9.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("10. What day was this written?");
-Console.WriteLine("A. Monday     B. Some day     C. Friday"); string question10 = Console.ReadLine();
+Console.WriteLine("10. What is the lowest sound humans can hear?");
+Console.WriteLine("A. 20,000 Hz     B. 2,000 Hz     C. 20 Hz"); string question10 = Console.ReadLine();
 if (question10.ToLower() == "c") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("11. Why are you still playing?");
-Console.WriteLine("A. you are forced to     B. choose this it's the correct option     C. no this is the correct option"); string question11 = Console.ReadLine();
-if (question11.ToLower() == "e") {score++;} else {score = score;}
+Console.WriteLine("11. What is the highest sound humans can hear?");
+Console.WriteLine("A. 20 Hz     B. 20,000 Hz     C. 2,000 Hz"); string question11 = Console.ReadLine();
+if (question11.ToLower() == "b") {score++;} else {score = score;}
 Console.WriteLine("");
 
 Console.WriteLine("12. What are the 4 states of matter?");
@@ -63,17 +63,17 @@ Console.WriteLine("A. Solid, fluid, gas & plasma     B. Gas, liquid, half solid 
 if (question12.ToLower() == "c") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("13. How old are you?");
-Console.WriteLine("A. 3     B. 86     C. Probably 17"); string question13 = Console.ReadLine();
+Console.WriteLine("13. How many degrees is a triangle?");
+Console.WriteLine("A. 60°     B. 120°     C. 180°"); string question13 = Console.ReadLine();
 if (question13.ToLower() == "c") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("14. Who are you?");
-Console.WriteLine("A. A potato     B. A human     C. A complex system of neurons and cells"); string question14 = Console.ReadLine();
+Console.WriteLine("14. What is the coldest temperature possible?");
+Console.WriteLine("A. 0°C     B. 0°F     C. 0°K"); string question14 = Console.ReadLine();
 if (question14.ToLower() == "c") {score++;} else {score = score;}
 Console.WriteLine("");
 
-Console.WriteLine("15. What is the speed of light?");
+Console.WriteLine("15. What is the speed of light in a vacuum?");
 Console.WriteLine("A. 299,792,458 m/s     B. 343 m/s     C. 100,000,000 m/s"); string question15 = Console.ReadLine();
 if (question15.ToLower() == "a") {score++;} else {score = score;}
 Console.WriteLine("");
