@@ -1,6 +1,6 @@
 ﻿int score = 0;
 
-Console.WriteLine("10 question quiz, random answers (Write the option)");
+Console.WriteLine("20 question quiz, random answers (Write the option)");
 Console.WriteLine("");
 
 Console.WriteLine("1. How many AU is the distance to the sun?");
